@@ -1,0 +1,10 @@
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

@@ -1,0 +1,16 @@
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\bin\Debug\netcoreapp3.1\Datos.runtimeconfig.json
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\bin\Debug\netcoreapp3.1\Datos.runtimeconfig.dev.json
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\IngenieriaWeb\ProyectoIngWeb\Solution1\Datos\obj\Debug\netcoreapp3.1\Datos.genruntimeconfig.cache
